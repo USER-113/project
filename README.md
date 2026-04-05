@@ -18,5 +18,5 @@
 
 <img width="231" height="181" alt="изображение" src="https://github.com/user-attachments/assets/746601d8-a686-4b82-8234-962577205dcf" />
 
-Кратко архитектура проекта выглядит так:
+Кратко, архитектура проекта выглядит так:
 <img width="1500" height="526" alt="изображение" src="https://github.com/user-attachments/assets/1bbd88e9-8957-4c28-b26e-26a8eff19c43" />
